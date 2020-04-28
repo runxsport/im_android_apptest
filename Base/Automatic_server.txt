@@ -1,0 +1,18 @@
+三星S8元素定位配置
+{
+  "platformName": "Android",
+  "platformVersion": "9",
+  "deviceName": "9889d6483158465037",
+  "appPackage": "com.qiaqia",
+  "appActivity": ".cardhome.activity.WelcomeActivity"
+}
+
+
+夜深模拟器元素定位配置
+{
+  "platformName": "Android",
+  "platformVersion": "5.1.1",
+  "deviceName": "127.0.0.1:62001",
+  "appPackage": "com.qiaqia",
+  "appActivity": ".cardhome.activity.WelcomeActivity"
+}
